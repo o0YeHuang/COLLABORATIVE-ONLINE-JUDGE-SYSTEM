@@ -1,2 +1,1 @@
-# Collaborative-Online-Judge-System
-Collaborative-Online-Judge-System
+# COLLABORATIVE-ONLINE-JUDGE-SYSTEM
